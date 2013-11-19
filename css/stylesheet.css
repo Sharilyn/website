@@ -1,0 +1,92 @@
+body {
+background-color:#FFFFCC;
+width: 900px;
+margin: 0 auto;
+}
+
+.container {
+	width: 900px;
+	margin: 0 auto;
+}
+
+h2 {
+	font-family:Futura;
+	font-size:+1;
+	margin-bottom: 10px;
+	margin-left: 20px
+	
+
+}
+
+h5 {
+	font-family: Verdana;
+	color: white;
+	font-size: smaller;
+}
+
+p, div {
+	font-family: Futura;
+	padding-left: 20px;
+	padding-right: 20px;
+	
+}
+
+ul {
+	font-family: monospace;
+	color: white;
+}
+
+.box01 {
+	padding: 4px;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  margin-bottom: 40px;
+  margin-right: 20px;
+  margin-left: 20px;
+}
+
+.box02 {
+	padding: 15px 15px;
+  background-color: #000000;
+  border: 3px groove #544899;
+  border-radius: 25px 25px 25px 0px;
+  margin-bottom: 40px;
+  margin-right: 20px;
+  margin-left: 20px;
+}
+
+.header_box {
+padding: 4px;
+  background-color: #fff;
+  border: 2px solid #8884e9;
+  border-radius: 15px;
+  margin-bottom: 40px;
+  margin-right: 20px;
+  margin-left: 20px;
+	
+}
+
+.box03 {
+	padding: 15px 15px;
+  background-color: #7775b6;
+  border: 3px groove #544899;
+  border-radius: 25px 25px 0px 25px;
+  margin-bottom: 40px;
+  margin-right: 20px;
+  margin-left: 20px;
+}
+
+a:link {
+	color: #25c054;
+}
+
+a:visited {
+	color: #b58928;
+}
+
+.rightspan
+{
+float: right;
+margin-bottom: inherit;
+}
